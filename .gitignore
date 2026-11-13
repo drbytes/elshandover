@@ -1,0 +1,5 @@
+els_wifi_config.h
+build/
+*.bin
+*.elf
+*.map
